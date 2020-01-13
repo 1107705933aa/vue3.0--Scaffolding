@@ -1,0 +1,31 @@
+{
+    "customData": [
+        {
+            "custId": "001",
+            "custName": "接入商1",
+            "custType": "类型1",
+            "custStatus": "222",
+            "personLiableName": "555",
+            "manageName": "666",
+            "createTime": "63366"
+        },
+        {
+            "custId": "002",
+            "custName": "接入商2",
+            "custType": "类型2",
+            "custStatus": "222",
+            "personLiableName": "555",
+            "manageName": "666",
+            "createTime": "63366"
+        },
+        {
+            "custId": "003",
+            "custName": "接入商3",
+            "custType": "类型3",
+            "custStatus": "222",
+            "personLiableName": "555",
+            "manageName": "666",
+            "createTime": "66336"
+        }
+    ]
+}
